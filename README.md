@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Gemini Clone](https://github.com/AakashV147/gemini-clone)
 
-- 🌱 I’m currently learning **GenAI, Flutter, Angular, Kotlin, Kubernetes**
+- 🌱 I’m currently learning **Flutter, Angular, Kotlin, Kubernetes**
 
 - 👯 I’m looking to collaborate on [React Project](https://github.com/AakashV147/react-projects)
 
