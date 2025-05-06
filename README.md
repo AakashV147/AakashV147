@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakash Venkatraman</h1>
 <h3 align="center">Full Stack Developer, AI/ML Engineer</h3>
 
-<p align="left"> <a href="https://twitter.com/kaasha2908" target="blank"><img src="https://img.shields.io/twitter/follow/kaasha2908?logo=twitter&style=for-the-badge" alt="kaasha2908" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aakash_venkatr" target="blank"><img src="https://img.shields.io/twitter/follow/kaasha2908?logo=twitter&style=for-the-badge" alt="kaasha2908" /></a> </p>
 
 - 🔭 I’m currently working on [Gemini Clone](https://github.com/AakashV147/gemini-clone)
 
